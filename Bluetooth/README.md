@@ -1,5 +1,7 @@
 # BlueTooth RFcomm Scanner
 
+![logo](https://github.com/MrR3boot/Learnings/blob/master/Bluetooth/snap.PNG)
+
 ## What does it do ?
 BTRF tool has below capabilities.
 1. Scanning RFCOMM ports for given MAC Address
@@ -10,4 +12,3 @@ BTRF tool has below capabilities.
 ``sudo apt-get install bluetooth libbluetooth-dev``
 
 ``sudo pip install pybluez``
-
