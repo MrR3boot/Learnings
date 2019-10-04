@@ -59,7 +59,7 @@ _|"""""|_|"""""|_|"""""|_| """ |
 		for i in range(1,65535):
 			scan('',i) #Provide Victim's MAC Address
 	elif input == "2":
-		mac='88:6b:0f:72:a1:95'
+		mac='' #Provide Victim's MAC Address
 		sdpBrowse(mac)
 	elif input == "3":
 		print "[-] Depends on the design it may not work in all cases"
