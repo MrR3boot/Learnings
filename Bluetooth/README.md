@@ -1,6 +1,6 @@
 # BlueTooth RFcomm Scanner
 
-![logo](https://github.com/MrR3boot/Learnings/blob/master/Bluetooth/snap.PNG)
+![logo](https://github.com/MrR3boot/Learnings/blob/master/Bluetooth/snaps.PNG)
 
 ## What does it do ?
 BTRF tool has below capabilities.
