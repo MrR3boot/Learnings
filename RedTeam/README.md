@@ -4,3 +4,4 @@ I'll keep refenrences to Active Directory Attacks & Defenses here.
 2. https://m0chan.github.io/2019/07/30/Windows-Notes-and-Cheatsheet.html
 3. https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
 4. https://ired.team/
+5. https://github.com/vysecurity/RedTips
